@@ -31,4 +31,6 @@ Check out the code on [github](https://github.com/sneezymud/sneezymud). Ask on d
 
 Donations are accepted to keep the mud running. The purpose of this Patreon is solely for covering costs associated with domain names, VPS hosting, website development. 
 
+Any [donations](https://www.patreon.com/sneezy_mud) are greatly appreciated!
+
 
