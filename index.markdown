@@ -19,7 +19,7 @@ If you're an old school mudder you can point your favorite mud client to sneezy-
 
 # Community
 
-If you can't find anyone in game to help you can always join the SneezyMud [discord](https://discord.gg/4G3uByb9)
+If you can't find anyone in game to help you can always join the SneezyMud [discord](https://discord.gg/TMz8gMBDXA)
 
 # Code
 
